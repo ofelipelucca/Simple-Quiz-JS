@@ -16,5 +16,4 @@ Abra o arquivo `index.html` em um navegador para iniciar o quiz. As perguntas se
 
 ## 📌 Autor
 
-Felipe Lucca Taumaturgo de Oliveira.
-
+Felipe Lucca Taumaturgo de Oliveira
