@@ -12,7 +12,7 @@ O quiz é composto por um objeto `quiz` que contém:
 
 ## 🔎 Uso
 
-Abra o arquivo `index.html` em um navegador para iniciar o quiz. As perguntas serão exibidas uma de cada vez, e você pode selecionar uma opção de escolha. Se a resposta estiver correta, você avançará para a próxima pergunta; caso contrário, será redirecionado para uma página indicando que a resposta está incorreta.
+As perguntas serão exibidas uma de cada vez, e você pode selecionar uma opção de escolha. Se a resposta estiver correta, você avançará para a próxima pergunta; caso contrário, será redirecionado para uma página indicando que a resposta está incorreta.
 
 ## 📌 Autor
 
